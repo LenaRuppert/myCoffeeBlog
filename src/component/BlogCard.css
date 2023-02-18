@@ -1,0 +1,19 @@
+.blog-card{
+    background-color: beige;
+    height: 200px;
+    width: 900px;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 20px;
+    text-align: left;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    border: 2px solid black;
+    color: black;
+
+}
+
+.h3 {
+    text-decoration: underline;
+}
